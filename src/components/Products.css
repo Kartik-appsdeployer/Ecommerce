@@ -1,0 +1,49 @@
+.grid-container {
+    display: grid;
+    column-gap: 50px;
+    grid-template-columns: auto auto auto;
+    background: rgb(32, 34, 44);
+    padding: 10px;
+  }
+  
+  .grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 100px;
+    margin-bottom: 60px;
+  }
+  .grid-item img{
+    height: 7em;
+    width: auto;
+    display: inline-block;
+    border-radius: 50%;
+  }
+  .Category{
+    font-size: 21px;
+    font-weight: bold;
+  }
+  .pricerating{
+    font-size: 16px;
+  }
+  .btn{
+    padding: 13px;
+    border-radius: 30px;
+    cursor: pointer;
+    border: none;
+    background: #4fdb4f;
+    font-size: 16px;
+    font-weight: bold;
+    transition: 0.5s;
+    margin-bottom: 10px;
+    margin-top: 12px;
+  }
+  h1{
+    text-align: center;
+    margin-top: 26px;
+    margin-bottom: 26px;
+    font-size: 50px;
+    color: white;
+  }

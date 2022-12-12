@@ -1,0 +1,45 @@
+.MainAdd{
+    margin-top: 35px;
+    background: rgb(226, 226, 226);
+    width: 560px;
+    margin-left: 475px;
+    padding: 30px;
+    border-radius: 10px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+
+.inputs{
+    outline: none;
+    border: none;
+    width: 400px;
+    margin-bottom: 20px;
+    border-radius: 37px;
+    background: rgb(32, 34, 44);
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 17px;
+    text-align: center;
+}
+.MainAdd h5{
+    font-size: 40px;
+    padding-bottom: 29px;
+}
+.btn1{
+    width: 400px;
+    padding: 13px;
+    border-radius: 30px;
+    cursor: pointer;
+    border: none;
+    background: #4fdb4f;
+    font-size: 20px;
+    font-weight: bold;
+    transition: 0.5s;
+    margin-bottom: 30px;
+}
+.btn1:hover{
+    background: rgb(17, 69, 36);
+    color: white;
+}

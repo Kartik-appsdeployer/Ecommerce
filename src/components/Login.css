@@ -1,0 +1,55 @@
+.context{
+    width: -moz-fit-content;
+    padding: 50px;
+    background: rgb(226, 226, 226);
+    margin-left: 496px;
+    border-radius: 10px;
+    width: 550px;
+}
+
+.context h2{
+    margin-bottom: 35px;
+    text-align: center;
+    font-size: 50px;
+}
+.context label{
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+}
+.context input{
+    padding: 10px;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    width: 435px;
+    font-size: 14px;
+    margin-top: 13px;
+    margin-bottom: 55px;
+}
+.context .btn{
+    width: 435px;
+    padding: 13px;
+    border-radius: 30px;
+    cursor: pointer;
+    border: none;
+    background: #4fdb4f;
+    font-size: 20px;
+    font-weight: bold;
+    transition: 0.5s;
+    margin-bottom: 30px;
+}
+
+.context .btn:hover{
+    background: rgb(32, 34, 44);
+    color: white;
+}
+.context p{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.context .Authh{
+    text-decoration: none;
+    font-size: 18px;
+}

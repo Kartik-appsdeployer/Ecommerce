@@ -1,0 +1,45 @@
+img{
+    text-align: center;
+    width: 176px;
+    border-radius: 19px;
+}
+.centerContent{
+    background: rgb(174, 173, 173);
+    text-align: center;
+    margin-top: 23px;
+    width: 530px;
+    margin-left: 476px;
+    padding: 14px;
+    border-radius: 24px;
+}
+.title{
+    font-size: 17px;
+    padding-top: 28px;
+    padding-bottom: 28px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.category{
+    padding-top: 14px;
+    font-size: 25px;
+    text-transform: uppercase;
+    padding-bottom: 15px;
+}
+.desc{
+    text-align: left;
+}
+.desc span{
+    font-weight: bold;
+    font-size: 23px;
+    color: #020102;
+}
+.price{
+    font-size: 23px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.rating{
+    font-size: 23px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

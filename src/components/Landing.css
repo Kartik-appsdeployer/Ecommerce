@@ -1,0 +1,54 @@
+.Header{
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+    color: white;
+    background: rgb(84, 83, 83);
+}
+.Header .central{
+    display: flex;
+    justify-content: space-between; 
+}
+.User{
+    display: flex;
+    justify-content: space-between;
+}
+.User .Link{
+    font-size: 24px;
+    text-decoration: none;
+    color: #ff7575;
+    font-weight: bold;
+    border-left: 1px solid white;
+    padding-left: 11px;
+}
+.User h2{
+    padding-right: 11px;
+}
+.Header .links{
+    padding-left: 10px;
+    padding-right: 10px;
+    /* text-decoration: none; */
+    padding-top: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+.Main{
+    text-align: center;
+    margin-top: 70px;
+}
+.Main h5{
+    color: #c9c9c9;
+    font-size: 20px;
+    margin-bottom: 24px;
+    width: 742px;
+    margin-left: 374px;
+}
+.Main img{
+    width: 720px;
+    border-radius: 10px;
+}
+.Main .logo1{
+    margin-bottom: 29px;
+    color: #ccff7a;
+}
